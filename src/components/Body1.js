@@ -112,7 +112,7 @@ const Home = () => {
           <a href="#">
             <img
               class="rounded-t-lg"
-              src="Gcake.jpg"
+              src="gcake.jpg"
               className=" h-1/2 w-full"
               alt=""
             />

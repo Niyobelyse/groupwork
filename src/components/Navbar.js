@@ -34,7 +34,7 @@ const Navbar = () => {
           <Link to="/" class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:bg-transparent md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 text-black font-bold dark:hover:text-white md:dark:hover:bg-transparent">Home</Link>
         </li>
         <li>
-          <Link to="/rentallists" class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:bg-transparent md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 text-black font-bold dark:hover:text-white md:dark:hover:bg-transparent">About Us</Link>
+          <Link to="/about" class="block py-2 pl-3 pr-4 text-gray-900 rounded md:hover:bg-transparent md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 text-black font-bold dark:hover:text-white md:dark:hover:bg-transparent">About Us</Link>
         </li>
         <li>
           <span to="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded   md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white text-black font-bold md:dark:hover:bg-transparent"><Drower/></span>
