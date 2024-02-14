@@ -1,0 +1,57 @@
+option{
+    background-color: none;
+}
+
+/* Bodyimage of homepage and contact page */
+.Bodyimage{
+    
+    background:linear-gradient(180deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('..//public/berkary.jpg');
+    
+    height: 439px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1.5;
+    background-position: center;
+    
+    
+
+}
+/* .Bodyimage img{
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+  
+} */
+/* footer */
+.spancolor{
+    color: #303030;
+}
+/* body */
+.bodybutton{
+    background-color: white;
+    opacity: 10px;
+}
+/* above the cards */
+.links{
+    color: #575757;
+}
+
+/* contact */
+.Bodyimagecontact{
+    
+    background:linear-gradient(180deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('..//public/berkary.jpg');
+    background-repeat: no-repeat;
+    height: 280px;
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+
+}
+
+
+
+
