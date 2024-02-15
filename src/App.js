@@ -16,7 +16,9 @@ import Managerlayout from './Shared/Managerlayout';
 import Managerdashbord from './components/Managerdashbord';
 import Landlordaccount from './components/Landlordaccount';
 import Weddings from './components/Weddings.js';
- import Weddingcards from './components/Weddingcards.js';
+import Weddingcards from './components/Weddingcards.js';
+import About from './components/About.js';
+import Order from './components/Order.js';
 
 
 
@@ -40,9 +42,11 @@ function App() {
         <Route path="dashbord" element={ <Dashbord/> } />
         <Route path="footer2" element={ <Footer2/> } />
         <Route path="birthdays" element={ <Birthdays/> } />
+        <Route path="about" element={ <About/> } />
         <Route path="form" element={ <Form/> } />
         <Route path="weddings" element={ <Weddings/> } />
         <Route path="weddingcards" element={ <Weddingcards/> } />
+        <Route path="order" element={ <Order/> } />
         
 
         

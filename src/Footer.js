@@ -12,7 +12,7 @@ const Footer = () => {
         <div className=''>
             <div>
                 <span to="#" class="items-center">
-                  <img src="../logo.png" class="h-8 ml-8 w-24" alt="Flowbite Logo" />
+                  <img src="../log.jpeg" class="h-8 ml-8 w-24" alt="Flowbite Logo" />
                   <span class="self-center text-medium whitespace-nowrap dark:text-white text-lg">sweet &nbsp;Delights </span>
                 </span>
             </div>

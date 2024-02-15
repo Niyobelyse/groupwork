@@ -16,7 +16,7 @@ const Home = () => {
             online and explore our delicious world!
           </p>
         </div>
-        {/* <div className=" border-r-2 border-l-2 bg-white border-b-2 border-gray-200 mt-16 inline-flex px-12 w-5/5 mx-24 h-24  mb-8 rounded-lg ">
+        {/* <div className=" border-r-2 border-l-2 bg-white border-b-2 border-yellow-200 mt-16 inline-flex px-12 w-5/5 mx-24 h-24  mb-8 rounded-lg ">
           <div className=" px-8 py-4 mt-2">
             <span className="text-black font-bold">Location</span>
             <Selectarea className="px-4" />
@@ -65,7 +65,7 @@ const Home = () => {
 
       {/* <PropertyContainer /> */}
       <div className="grid grid-cols-3  py-12 px-20">
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow   dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -76,11 +76,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
                 Pink vanilla
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-900 dark:text-gray-900">
               A classic design with intricate details that create a dramatic and
               elegant cake that is perfect for any celebration!
             </p>
@@ -108,7 +108,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow  dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -119,11 +119,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                 Smash cake
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-900 dark:text-gray-900">
               This stunning cake has several shades of yellow buttercream,
               creating a fun ombre design that goes from dark to light yellow
             </p>
@@ -151,7 +151,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow   dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -162,11 +162,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                 Lemon cake
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-white-900 dark:text-gray-900">
               Four layers of vanilla cake filled with fresh lemon curd, frosted
               with vanilla buttercream.
             </p>
@@ -195,7 +195,7 @@ const Home = () => {
         </div>
       </div>
       <div className="grid grid-cols-3  py-12 px-20">
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow   dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -206,11 +206,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                 yellow velvet cupcake
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-900 dark:text-gray-900">
               Moist, deep yellow cupcake with a hint of cocoa, topped with cream
               cheese frosting
             </p>
@@ -238,7 +238,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow   dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -249,11 +249,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                 Chocolate cupcake
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-900 dark:text-gray-900">
               Chocolate cupcake topped with chocolate buttercream
             </p>
             <a
@@ -280,7 +280,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="max-w-sm bg-white border border-yellow-200 rounded-lg shadow   dark:border-yellow-700">
           <a href="#">
             <img
               class="rounded-t-lg"
@@ -291,11 +291,11 @@ const Home = () => {
           </a>
           <div class="p-5">
             <a href="#">
-              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                 Vanilla pink cupcake
               </h5>
             </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            <p class="mb-3 font-normal text-gray-900 dark:text-gray-900">
               Vanilla cupcake topped with Susie Pink vanilla buttercream
             </p>
             <a

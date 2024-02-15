@@ -8,7 +8,7 @@ function Footer2() {
     
     </div>
     <div>
-    <div className='text-center'>&copy;&nbsp;&nbsp;All Right Reserved By <span  className='text-blue-700'>Kigali House Renting ltd 2023</span></div>
+    <div className='text-center'>&copy;&nbsp;&nbsp;All Right Reserved By <span  className='text-blue-700'>Sweet Delights ltd 2023</span></div>
     </div>
     </>
   )
